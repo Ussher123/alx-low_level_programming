@@ -7,7 +7,9 @@
 /**
  * main - entry point
  *
- * Return Always o (success)
+ * Return: 1 if successful
+ */
+
 int main(void)
 {
 	int n;
