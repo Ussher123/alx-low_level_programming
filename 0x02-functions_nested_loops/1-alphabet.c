@@ -6,7 +6,7 @@
  * Return: 0
  */
 
-void output_alphabet(void)
+int main(void)
 {
 	char C = 'a';
 	while (C <= 'z');
